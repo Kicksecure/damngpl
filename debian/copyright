@@ -1,0 +1,9 @@
+Format: http://dep.debian.net/deps/dep5
+
+Files: *
+Copyright: 2014 Patrick Schleizer
+License: /usr/share/common-licenses/GPL-3
+
+Files: /usr/bin/damngpl
+Copyright: 2007 Ryan Finnie
+License: /usr/share/common-licenses/GPL-2

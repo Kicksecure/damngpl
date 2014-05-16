@@ -1,0 +1,28 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: damngpl
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: http://www.finnie.org/software/damngpl/damngpl
+Vcs-Browser: https://github.com/Whonix/damngpl
+Vcs-Git: https://github.com/Whonix/damngpl.git
+Standards-Version: 3.9.4
+
+Package: damngpl
+Architecture: all
+Depends: perl, ${misc:Depends}
+Description: Extract source package info from Debian status files
+ damngpl will parse a Debian-style /var/lib/dpkg/status file and extract source
+ package information about installed packages. This information can be used in
+ several ways, usually to download source packages.
+ .
+ Multiple input files can be specified on the command line, or piped into
+ standard input if no files are specified. Results are returned to standard
+ output.
+ .
+ See also:
+ http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
