@@ -24,5 +24,9 @@ Description: Extract source package info from Debian status files
  standard input if no files are specified. Results are returned to standard
  output.
  .
+ The name damngpl was chosen as a tongue-in-cheek description of its purpose
+ (downloading Debian sources for the Finnix project to remain GPL compliant).
+ Please do not send hate mail to the author, thinking he is anti-GPL. He's not.
+ .
  See also:
  http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
