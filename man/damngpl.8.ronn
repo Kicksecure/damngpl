@@ -1,0 +1,46 @@
+damngpl(8) -- Secure Distributed Web Date
+=============================================
+
+<span class="comment">
+# This file is part of Whonix.
+# Copyright (C) 2012 - 2014 Patrick Schleizer adrelanos@riseup.net
+# See the file COPYING for copying conditions.
+
+# Not using angle brackets in copyright notice for e-mail address, because
+# angle brackets would result in this file being non-deterministic. (There
+# must be a bug in Debian wheezy in ruby-ronn.)
+
+# Not using "##", because for some reason this comment would be visible in the
+# resulting man page.
+</span>
+
+## SYNOPSIS
+`damngpl` [-s] [-d] [-n] [-f] [statusfile [...]]
+
+## DESCRIPTION
+damngpl - Extract source package info from Debian status files
+
+## OPTIONS
+
+   -s --source
+   Outputs format "package=1:1.0-1" (default)
+
+   -d --dget
+   Outputs format "package_1.0-1"
+
+   -n --snapshot
+   Outputs snapshot.debian.net deb-src lines
+
+   -f --nofile
+   Do not check for .dsc files in current directory
+
+   -? --help
+   Print this synposis and exit
+
+   --man
+   Open man page for this program
+
+## AUTHOR
+damngpl was written by Ryan Finnie (ryan@finnie.org).
+
+This man page has been written by Patrick Schleizer (adrelanos@riseup.net).
