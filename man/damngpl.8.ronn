@@ -1,4 +1,4 @@
-damngpl(8) -- Secure Distributed Web Date
+damngpl(8) -- Extract source package info from Debian status files
 =============================================
 
 <span class="comment">
