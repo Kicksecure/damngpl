@@ -6,7 +6,7 @@ Source: damngpl
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 8), faketime, git, ruby-ronn (>= 0.7.3)
+Build-Depends: debhelper (>= 8), faketime, ruby-ronn (>= 0.7.3)
 Homepage: http://www.finnie.org/software/damngpl/damngpl
 Vcs-Browser: https://github.com/Whonix/damngpl
 Vcs-Git: https://github.com/Whonix/damngpl.git
