@@ -17,6 +17,10 @@ http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
+# Manual Page #
+
+See also `man` folder for more information.
+
 # Generic Readme #
 ## Readme Version ##
 
