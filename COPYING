@@ -20,7 +20,7 @@ License: GPL-3+
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-Files: /usr/bin/damngpl
+Files: usr/bin/damngpl
 Copyright: 2007 Ryan Finnie
 License: GPL-2+
  This program is free software; you can redistribute it and/or modify
