@@ -1,3 +1,15 @@
+commit d989963639c1ad5e9444ba381667ebc2dcc0291e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 08:35:31 2017 +0100
+
+    packaging, bumped Standards-Version from 3.9.6 to 3.9.8 for jessie support
+
+commit d9d4f8bdf045b6a43e57dcf94cc881ff77d281a0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 10 02:09:03 2016 +0000
+
+    bumped changelog version
+
 commit ffcb305cf52b58a5bf07f31e6e9115c8cb607fc2
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Nov 21 17:40:44 2016 +0000
