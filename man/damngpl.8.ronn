@@ -2,7 +2,7 @@ damngpl(8) -- Extract source package info from Debian status files
 =============================================
 
 <span class="comment">
-# Copyright (C) 2012 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+# Copyright (C) 2012 - 2020 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
 # See the file COPYING for copying conditions.
 </span>
 
