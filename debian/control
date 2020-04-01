@@ -5,7 +5,7 @@ Source: damngpl
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 12), genmkfile, ronn
+Build-Depends: debhelper (>= 12), ronn
 Homepage: http://www.finnie.org/software/damngpl/damngpl
 Vcs-Browser: https://github.com/Whonix/damngpl
 Vcs-Git: https://github.com/Whonix/damngpl.git
