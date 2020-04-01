@@ -1,0 +1,26 @@
+.\" generated with Ronn-NG/v0.8.0
+.\" http://github.com/apjanke/ronn-ng/tree/0.8.0
+.TH "DAMNGPL" "8" "April 2020" "damngpl" "damngpl Manual"
+.SH "NAME"
+\fBdamngpl\fR \- Extract source package info from Debian status files
+.P
+.SH "SYNOPSIS"
+\fBdamngpl\fR [\-s] [\-d] [\-n] [\-f] [statusfile [\|\.\|\.\|\.]]
+.SH "DESCRIPTION"
+damngpl \- Extract source package info from Debian status files
+.SH "OPTIONS"
+\-s \-\-source Outputs format "package=1:1\.0\-1" (default)
+.P
+\-d \-\-dget Outputs format "package_1\.0\-1"
+.P
+\-n \-\-snapshot Outputs snapshot\.debian\.net deb\-src lines
+.P
+\-f \-\-nofile Do not check for \.dsc files in current directory
+.P
+\-? \-\-help Print this synposis and exit
+.P
+\-\-man Open man page for this program
+.SH "AUTHOR"
+damngpl was written by Ryan Finnie (ryan@finnie\.org)\.
+.P
+This man page has been written by Patrick Schleizer (adrelanos@riseup\.net)\.
