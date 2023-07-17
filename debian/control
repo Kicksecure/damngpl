@@ -7,8 +7,8 @@ Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@whonix.org>
 Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Homepage: http://www.finnie.org/software/damngpl/damngpl
-Vcs-Browser: https://github.com/Whonix/damngpl
-Vcs-Git: https://github.com/Whonix/damngpl.git
+Vcs-Browser: https://github.com/Kicksecure/damngpl
+Vcs-Git: https://github.com/Kicksecure/damngpl.git
 Standards-Version: 4.6.2
 Rules-Requires-Root: no
 
