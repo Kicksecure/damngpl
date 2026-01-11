@@ -137,7 +137,7 @@ damngpl [-s] [-d] [-n] [-f] [statusfile [...]]
    -d --dget     Outputs format "package_1.0-1"
    -n --snapshot Outputs snapshot.debian.net deb-src lines
    -f --nofile   Do not check for .dsc files in current directory
-   -? --help     Print this synposis and exit
+   -? --help     Print this synopsis and exit
       --man      Open man page for this program
 
 =head1 DESCRIPTION

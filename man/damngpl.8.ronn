@@ -27,7 +27,7 @@ damngpl - Extract source package info from Debian status files
    Do not check for .dsc files in current directory
 
    -? --help
-   Print this synposis and exit
+   Print this synopsis and exit
 
    --man
    Open man page for this program
